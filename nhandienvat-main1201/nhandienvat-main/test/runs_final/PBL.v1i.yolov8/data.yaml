@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['first_side', 'fourth_side', 'second_side', 'third_side']
+
+roboflow:
+  workspace: danang-university
+  project: pbl-jqr3w
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/danang-university/pbl-jqr3w/dataset/1

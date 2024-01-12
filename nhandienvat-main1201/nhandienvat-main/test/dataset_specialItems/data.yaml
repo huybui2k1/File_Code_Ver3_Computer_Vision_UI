@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['false_1', 'false_2', 'false_3', 'true', 'true_center']
+
+roboflow:
+  workspace: danang-university
+  project: special-item-obstancles
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/danang-university/special-item-obstancles/dataset/1

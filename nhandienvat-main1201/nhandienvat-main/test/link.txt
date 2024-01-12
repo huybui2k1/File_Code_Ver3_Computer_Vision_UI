@@ -1,0 +1,3 @@
+contract stretching:
+    https://iq.opengenus.org/contrast-enhancement-algorithms/
+    https://theailearner.com/2019/01/30/contrast-stretching/
